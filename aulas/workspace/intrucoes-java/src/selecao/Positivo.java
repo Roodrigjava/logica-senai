@@ -1,6 +1,6 @@
 package selecao;
 
-public class ElseIf {
+public class Positivo {
 	public static void main(String[] args) {
 		float preco = 59.9f;
 		
