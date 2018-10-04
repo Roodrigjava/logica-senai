@@ -5,11 +5,15 @@ import java.util.Arrays;
 public class Ex003SomaNumeros {
 	public static void main(String[] args) {
 
-		double[] num = { 1.36, 2.58, 3.98 };
-		double resultado;
+		double[] num = { 10.0, 5.5, 2.5, 8.0 };
+		double soma = 0;
+
+		for (double i = 0; i <= num.length; i++) {
 		
-		for (int i = 0; i <= 2; i++) {
+			System.out.println(Arrays.toString(num));
 			
 		}
-	}
+		
+	}   
+	
 }
