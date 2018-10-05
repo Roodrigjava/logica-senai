@@ -1,13 +1,13 @@
 package execicios;
 
-public class Ex005Triangulos {
+public class Ex006PiramideNumeral {
 	public static void main(String[] args) {
-		int i = 0;
+		int i = 1;
 		String x = "";
 		
-		while (i < 10) 
+		while (i < 11) 
 		{
-			x += "*";
+			x += i;
 			System.out.println(x);
 			++i;
 		}
