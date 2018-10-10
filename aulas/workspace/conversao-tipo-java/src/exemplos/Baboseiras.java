@@ -10,10 +10,6 @@ public class Baboseiras {
 		String[][] usario = { {}, {}, {} };
 		System.out.println(usario);
 
-		String palavra1;
-		String[] palavra2;
-		System.out.printf("Informe uma palavra simples:\n");
-
 		palavra1 = entrada.next();
 		System.out.println(palavra1);
 	}
