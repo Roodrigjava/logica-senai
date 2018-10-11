@@ -10,7 +10,7 @@ public class Baboseiras {
 		String[][] usario = { {}, {}, {} };
 		System.out.println(usario);
 
-		palavra1 = entrada.next();
+		String palavra1 = entrada.next();
 		System.out.println(palavra1);
 	}
 }
